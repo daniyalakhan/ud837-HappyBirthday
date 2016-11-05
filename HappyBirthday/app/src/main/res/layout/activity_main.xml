@@ -8,12 +8,14 @@
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="Hello World!" />
+        android:text="Happy Birthday Wasim!" />
 
     <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:text="From Daniyal" />
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentRight="true"
+        android:text="From, Daniyal" />
 
     <ImageView
         android:id="@+id/imageView_androidparty"
